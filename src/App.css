@@ -1,0 +1,26 @@
+.App {
+  margin: 0px;
+  background-color: rgb(241, 232, 235);
+  
+  height: 1000px;
+  float: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Log-in{
+  width: 300px;
+  height: 300px;
+  align-content: center;
+  text-align: center;  
+  background-color: aliceblue;
+}
+
+.Continue-button{
+  margin-top: 100px;
+  
+}
+
+
+
